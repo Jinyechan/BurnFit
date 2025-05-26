@@ -27,3 +27,15 @@ React Native를 사용한 캘린더 기능 구현
 ### 패키지 설치
 ```bash
 npm install
+
+
+BurnFit-Frontend-Test/
+├── README.md
+├── App.tsx
+├── package.json
+└── src/
+    └── screens/
+        ├── HomeScreen.tsx
+        ├── CalendarScreen.tsx
+        ├── LibraryScreen.tsx
+        └── MyPageScreen.tsx
