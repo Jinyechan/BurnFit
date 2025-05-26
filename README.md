@@ -22,13 +22,8 @@ React Native를 사용한 캘린더 기능 구현
 - 애니메이션 효과 적용
 - 사용자 상호작용 개선
 
-## 설치 및 실행
-
-### 패키지 설치
+## 폴더 구조
 ```bash
-npm install
-
-
 BurnFit-Frontend-Test/
 ├── README.md
 ├── App.tsx
